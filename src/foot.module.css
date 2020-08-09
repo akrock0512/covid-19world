@@ -1,0 +1,17 @@
+.footer {
+    margin-top: 30px;
+    padding: 2px 0;
+    background-color: #28a745!important;
+    color:white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+
+  footer .fab:hover{
+    font-size: 40px;
+}
+  
+  
+  
